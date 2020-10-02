@@ -35,6 +35,7 @@ Task 3: Create the Cloud Function
   Click Next
   Do as per below image.
   
+  ![screen](https://github.com/ashwinraiyani/skillbadge2/blob/main/bucket1.png)
 
   Make sure you replace the text REPLACE_WITH_YOUR_TOPIC with the topic you created in task 2, in line 15 of index.js.
   
