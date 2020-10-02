@@ -43,6 +43,14 @@ Task 3: Create the Cloud Function
   
   Click on Deploy button
   
+  Now Download the Image : https://storage.googleapis.com/cloud-training/gsp315/map.jpg
+  
+  Now click on Navigation Menu > Storage > Browser 
+  
+  Select the bucket create in Task 1:
+  
+  Upload the map.jpg 
+  
   
 Task 4: Remove the previous cloud engineer
 In the console, click the Navigation menu > IAM.
