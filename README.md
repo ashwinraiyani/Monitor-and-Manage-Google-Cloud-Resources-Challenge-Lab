@@ -50,6 +50,7 @@ In the console, click the Navigation menu > IAM.
 Find the second user (This is given in qwiklabs as "username 2")
 
 Enter the username2 in "Filter Value" place 
+![screen](https://github.com/ashwinraiyani/skillbadge2/blob/main/bucket3.PNG)
 
 Click the pencil icon, select Remove.
 
