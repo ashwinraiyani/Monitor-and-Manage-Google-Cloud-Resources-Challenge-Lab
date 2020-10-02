@@ -55,4 +55,4 @@ Enter the username2 in "Filter Value" place
 Click the pencil icon, select Remove.
 
 
-
+Now make sure you have click on Check My Progress after each task and right side 100/100 score must apprear. 
