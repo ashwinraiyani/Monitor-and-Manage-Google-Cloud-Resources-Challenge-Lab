@@ -44,7 +44,14 @@ Task 3: Create the Cloud Function
   Click on Deploy button
   
   
-  Task 4: Remove the previous cloud engineer
+Task 4: Remove the previous cloud engineer
+In the console, click the Navigation menu > IAM.
+
+Find the second user (This is given in qwiklabs as "username 2")
+
+Enter the username2 in "Filter Value" place 
+
+Click the pencil icon, select Remove.
 
 
 
