@@ -30,6 +30,20 @@ Task 3: Create the Cloud Function
 
   In the Create function dialog, enter the following values:
   
+  ![screen](https://github.com/ashwinraiyani/skillbadge2/blob/main/bucket.png)
+  
+  Click Next
+  Do as per below image.
+  
+
+  Make sure you replace the text REPLACE_WITH_YOUR_TOPIC with the topic you created in task 2, in line 15 of index.js.
+  
+  Same way copy the content of Package.json from Qwiklabs given and paste in package.json file.
+  
+  Click on Deploy button
+  
+  
+  Task 4: Remove the previous cloud engineer
 
 
 
