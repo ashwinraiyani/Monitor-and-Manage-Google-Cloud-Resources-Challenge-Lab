@@ -2,7 +2,7 @@
 
 Login into Google Console
 
-Task 1: Create a bucket
+# Task 1: Create a bucket
 
   click the Navigation menu > Storage --> Browser
 
@@ -11,8 +11,10 @@ Task 1: Create a bucket
   Name your bucket: Enter any unique-name
 
   Directly Click - Create
+  
+  **Check the Progress**
 
-Task 2: Create a Pub/Sub topic
+# Task 2: Create a Pub/Sub topic
 
   click the Navigation menu > Pub/Sub > Topics
 
@@ -20,10 +22,10 @@ Task 2: Create a Pub/Sub topic
 
   Enter any topic name 
 
-  * Make sure you remember the topic name, which will be used in Task 3
+  **Make sure you remember the topic name, which will be used in Task 3**
 
-
-Task 3: Create the Cloud Function
+  **Check the Progress**
+# Task 3: Create the Cloud Function
   In the console, click the Navigation menu > Cloud Functions.
 
   Click Create function.
@@ -43,6 +45,8 @@ Task 3: Create the Cloud Function
   
   Click on Deploy button
   
+  **wait for 2-3 minutes funcation to available** Once it is green follow next step.
+  
   Now Download the Image : https://storage.googleapis.com/cloud-training/gsp315/map.jpg
   
   Now click on Navigation Menu > Storage > Browser 
@@ -51,8 +55,9 @@ Task 3: Create the Cloud Function
   
   Upload the map.jpg 
   
+  **Check the Progress**
   
-Task 4: Remove the previous cloud engineer
+# Task 4: Remove the previous cloud engineer
 In the console, click the Navigation menu > IAM.
 
 Find the second user (This is given in qwiklabs as "username 2")
@@ -63,4 +68,4 @@ Enter the username2 in "Filter Value" place
 Click the pencil icon, select Remove.
 
 
-Now make sure you have click on Check My Progress after each task and right side 100/100 score must apprear. 
+**Now make sure you have click on Check My Progress after each task and right side 100/100 score must apprear**
